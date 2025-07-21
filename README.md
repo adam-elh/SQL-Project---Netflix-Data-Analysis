@@ -1,5 +1,6 @@
 # SQL-Project-Netflix-Data-Analysis
 
+```sql
 -- Personal Study - SQL Project Netflix Dataset Data Analysis
 
 -- Create Table Query
@@ -153,4 +154,6 @@ SELECT
      category,
 	 COUNT(*) as total_content
 FROM new_table
-GROUP BY category; -- 8465 Movies & TV Shows are considered safe and 342 considered mature. 
+GROUP BY category; -- 8465 Movies & TV Shows are considered safe and 342 considered mature.
+
+```
